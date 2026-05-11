@@ -24,12 +24,7 @@ const showStaffTeam = true
 const showPlayersList = true
 
 
-// orange
-// red
-// blue
-// green
-// pink
-// purple
+// orange, only for now, more themes coming soon!
 const theme = "orange"
 
 // ==== WINTER UPDATE !! ==== \\
@@ -56,7 +51,7 @@ const github = "" 		// https://example.com
 
 
 // Player List
-const serverCode = "******" //Your server CODE from fivem. (cfx.re/join/abcdef) this ABCDEF is your code, paste it in serverCode. 
+const serverCode = "******" //Your server CODE from fivem. (cfx.re/join/abcdef) this ABCDEF is your code, paste it in serverCode.
 const playerProfileImage = "https://forum.cfx.re/user_avatar/forum.cfx.re/neveradevelopment/144/4447132_2.png"
 
 
