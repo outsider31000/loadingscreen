@@ -7,12 +7,12 @@ var staff_team = [
 
 	{
 		"name": "Owner name",
-		"image": "https://forum.cfx.re/user_avatar/forum.cfx.re/neveradevelopment/144/4447132_2.png",
+		"image": "https://files.catbox.moe/j3ojc2.png",
 		"rank": "Owner"
 	},
 	{
 		"name": "Admin name",
-		"image": "https://forum.cfx.re/user_avatar/forum.cfx.re/neveradevelopment/144/4447132_2.png",
+		"image": "https://files.catbox.moe/j3ojc2.png",
 		"rank": "Admin"
 	}
 
@@ -30,7 +30,7 @@ const showPlayersList = true
 // green
 // pink
 // purple
-const theme = "orange"
+const theme = "red"
 
 // ==== WINTER UPDATE !! ==== \\
 const enableWinterUpdate = false
@@ -44,20 +44,20 @@ const desc = "RedM Roleplay server featuring an extensive collection of custom s
 
 
 // Social media
-const discord = "https://discord.gg/"  // If = "" then icon will not show up on screen
+const discord = "https://discord.com/invite/JjNYMnDKMf"  // If = "" then icon will not show up on screen
 const instagram = ""	// https://example.com
 const youtube = "" 		// https://example.com
 const twitter = "" 		// https://example.com
 const tiktok = ""  		// https://example.com
 const facebook = ""		// https://example.com
 const twitch = "" 		// https://example.com
-const github = "" 		// https://example.com
+const github = "https://github.com/vorpcore" 		// https://example.com
 
 
 
 // Player List
 const serverCode = "******" //Your server CODE from fivem. (cfx.re/join/abcdef) this ABCDEF is your code, paste it in serverCode. 
-const playerProfileImage = "https://forum.cfx.re/user_avatar/forum.cfx.re/neveradevelopment/144/4447132_2.png"
+const playerProfileImage = "https://files.catbox.moe/j3ojc2.png"
 
 
 // Video Settings
