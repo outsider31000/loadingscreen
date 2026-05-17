@@ -42,3 +42,8 @@ The FiveM Loading Screen Script is designed to enhance the player's experience w
 ![4](https://github.com/user-attachments/assets/1148d10e-4417-4179-8f8c-fef6465d205e)
 ![5](https://github.com/user-attachments/assets/a9c011dc-b0c0-4534-8cbf-8d6e14f77acd)
 ![6](https://github.com/user-attachments/assets/65fe2dbe-9e5a-446c-9e69-6edfe590e6bc)
+
+## Credits
+- Photos: Z-eus
+- Video/GIF: Pinterest - Aneta Natanova
+- Music: B.B. King - The Thrill Is Gone ft. Tracy Chapman
